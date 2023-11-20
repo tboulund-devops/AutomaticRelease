@@ -4,4 +4,4 @@ changelog:
   categories:
     - title: Bug
       labels:
-        - !Bug
+        - Bug
